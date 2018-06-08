@@ -332,4 +332,4 @@ client.on("message", message => {
   
   
   
-client.login("NDUyMzA4OTA1MDE2NDI2NDk2.DfOdGQ.Y-LfoBXbDngTt2n3GwaZRT4fBlI")
+client.login("Must use process.env.BOT_TOKEN")
